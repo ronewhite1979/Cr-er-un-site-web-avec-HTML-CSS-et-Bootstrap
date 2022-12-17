@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+
+.pic {
+    height: 600px;
+    background: url(PICTURES/faireundon.jpg) center / cover;
+    width: 100%;
+    background-position: 28% 62%;
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.credits {
+    text-align: center;
+}
+
+.cards {
+    color: black;
+}
